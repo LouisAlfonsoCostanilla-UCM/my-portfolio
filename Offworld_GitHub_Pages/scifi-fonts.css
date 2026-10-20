@@ -1,0 +1,30 @@
+@font-face {
+  font-family: "Orbitron";
+  font-weight: 400;
+  font-display: swap;
+  src: url("fonts/orbitron-400.ttf");
+}
+@font-face {
+  font-family: "Orbitron";
+  font-weight: 600;
+  font-display: swap;
+  src: url("fonts/orbitron-600.ttf");
+}
+@font-face {
+  font-family: "Rajdhani";
+  font-weight: 400;
+  font-display: swap;
+  src: url("fonts/rajdhani-400.ttf");
+}
+@font-face {
+  font-family: "Rajdhani";
+  font-weight: 500;
+  font-display: swap;
+  src: url("fonts/rajdhani-500.ttf");
+}
+@font-face {
+  font-family: "Rajdhani";
+  font-weight: 600;
+  font-display: swap;
+  src: url("fonts/rajdhani-600.ttf");
+}
